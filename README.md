@@ -1,2 +1,2 @@
-# python-oop-beginner-example
-Contain some examples for using OOP in Python
+# Python OOP Beginner Examples
+Contain some examples of using OOP in Python
